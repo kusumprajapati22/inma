@@ -301,7 +301,7 @@
 @media (min-width: 992px) {
     .carousel .carousel-inner .carousel-item img {
         height: 100%;
-        /* object-fit: cover;    */
+        object-fit: contain;   
     }
 }
 
@@ -311,7 +311,7 @@
     }
     .carousel .carousel-inner .carousel-item img {
         height: 700px;
-        /* object-fit: cover;     */
+        object-fit: contain;    
     }
 }
 
